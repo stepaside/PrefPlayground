@@ -1,0 +1,4 @@
+packages/*
+*.suo
+PrefPlayground/bin/*
+PrefPlayground/obj/*
